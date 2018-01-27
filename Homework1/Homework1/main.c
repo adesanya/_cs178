@@ -41,7 +41,7 @@ int main(void)
 	//set input and output pins
 	SET_BIT(DDRB,PINB0);
 	CLR_BIT(DDRB,PINB1);
-	//SET_BIT(PORTB,PINB0);
+
 
     while (1) 
     {
